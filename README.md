@@ -32,7 +32,7 @@ In my journey spanning 14 years, I've immersed myself in the world of graphic de
 - [Amazon Website](http://www.amazon.ca)
 - Watch anime
 
-![Luffy](images/luffy.jpg)
+![Luffy](images/Luffy.jpg)
 
 ## Dislikes
 
