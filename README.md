@@ -8,13 +8,13 @@ Let's dive in and let you know about us a little better.*
 
 # I am Carlos!
 
-![Fender Telecaster](images/carlos_pic.jpg)
+![Carlos Cano](images/carlos_pic.jpg)
 
 In my journey spanning 14 years, I've immersed myself in the world of graphic design, weaving visual stories across billboards and packaging. My canvas extends beyond pixels to embrace branding, photography, and the art of crafting compelling narratives through videography. Beyond the technical, I thrive in the realm of remote creativity, where my commitment to excellence blends seamlessly with a passion for 
 
 ## Hoobie
 
-![Fender Telecaster](images/dota2.jpg)
+![Dota 2](images/dota2.jpg)
 
 ***Dota 2*** is a multiplayer online battle arena (MOBA) game where two teams of five players each compete to destroy the opposing team's Ancient, a core building in their base. Players select unique heroes with distinct abilities, strategizing to outmaneuver and overpower their adversaries in intense, strategic battles across a dynamic map.
 
@@ -32,7 +32,7 @@ In my journey spanning 14 years, I've immersed myself in the world of graphic de
 - [Amazon Website](http://www.amazon.ca)
 - Watch anime
 
-![Fender Telecaster](images/luffy.jpg)
+![Luffy](images/luffy.jpg)
 
 ## Dislikes
 
