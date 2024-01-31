@@ -40,6 +40,36 @@ In my journey spanning 14 years, I've immersed myself in the world of graphic de
 
 <!-- Start here with your info -->
 
+# Hello World!
+
+*Welcome to our page! We're **Carlos Cano** and **Faizan Khan**. We are currently studying Interactive Media Design at Fanshawe College, and we want to share just a little about us, like hobbies, likes and dislikes, unique backgrounds, and passions.
+Let's dive in and let you know about us a little better.*
+
+# I am Faizan!
+
+<img src='images/faizan_pic.jpg' width='500'>
+
+I've been working as a UX/ UI Designer for approx 2 years, In my carrer I have worked with various startups and sometimes as a solo designer. It has been a fruitful journey so far and I'm proud of the things I've achieved. My curiosity about the design brought me here to Fanshawe College where I'm studying Interactive Media Design Program
+
+## Hoobie
+
+![Cooking](images/cooking.jpg)
+
+I love Cooking so much so if I wasn't passionate about the design, I would have become a chef. Cooking feels like a therapy and it's wonderful just by mixing some ingredients you can create a complete different dish.
+
+## Likes
+- Excercise
+- Swimming
+- Travelling
+- Video games
+- Snooker
+- Watch anime
+
+![Luffy](images/anime1.jpg)
+
+## Dislikes
+
+~~Working out~~
 
 ___
 ## Installation
