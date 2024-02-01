@@ -40,11 +40,6 @@ In my journey spanning 14 years, I've immersed myself in the world of graphic de
 
 <!-- Start here with your info -->
 
-# Hello World!
-
-*Welcome to our page! We're **Carlos Cano** and **Faizan Khan**. We are currently studying Interactive Media Design at Fanshawe College, and we want to share just a little about us, like hobbies, likes and dislikes, unique backgrounds, and passions.
-Let's dive in and let you know about us a little better.*
-
 # I am Faizan!
 
 <img src='images/faizan_pic.jpg' width='500'>
